@@ -1,0 +1,1 @@
+Esimerkillistä tekstiä Gitin käytöstä. Lähinnä testi.
